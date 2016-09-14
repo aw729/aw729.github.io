@@ -1,9 +1,9 @@
-body {
+head {
     background-color: lightblue;
     text-align: center;
 }
 
-h1 {
+p {
     color: navy;
     margin-left: 20px;
 }

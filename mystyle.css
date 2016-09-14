@@ -2,7 +2,7 @@ html {
     background-color: lightblue;
 }
 
-title {
+head {
     text-align: center;
 }
 
@@ -17,4 +17,8 @@ body {
     text-align: left;
     font-size: 12pt;
     margin-left: 20px;
+}
+
+p {
+    text-indext: 25px;
 }

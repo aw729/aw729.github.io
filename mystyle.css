@@ -5,5 +5,7 @@ head {
 
 p {
     color: navy;
+    text-align: left;
+    font-size: 12pt;
     margin-left: 20px;
 }

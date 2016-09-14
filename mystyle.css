@@ -29,7 +29,7 @@ p {
 }
 
 p.footnote {
-    text-align: left;
-    font-size: 5px;
-    color: white;
+    text-align: right;
+    font-size: 8px;
+    color: black;
 }

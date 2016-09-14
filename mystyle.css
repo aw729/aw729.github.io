@@ -27,3 +27,9 @@ body {
 p {
     text-indext: 25px;
 }
+
+p2 {
+    text-align: left;
+    font-size: 5px;
+    color: white;
+}

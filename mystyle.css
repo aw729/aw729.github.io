@@ -1,9 +1,12 @@
-head {
+html {
     background-color: lightblue;
+}
+
+head {
     text-align: center;
 }
 
-p {
+body {
     color: navy;
     text-align: left;
     font-size: 12pt;
